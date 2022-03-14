@@ -12,7 +12,7 @@
           "category": "Contributed",
           "url": "https://github.com/john-pritchard/arduino-board-index/raw/main/boards/habitaware-nrf52-0.1.zip",
           "archiveFileName": "habitaware-nrf52-0.1.zip",
-          "checksum": "SHA-256:33bcce27ef55316222f6c8b03100e97250d8f6a21646450c6991337826401ea2",
+          "checksum": "SHA-256:271f7eb52eb7c0a12c3deb66be1b632a83dcf074889a804f577c391f440c890c",
           "size": "18003719",
           "boards": [
             {
