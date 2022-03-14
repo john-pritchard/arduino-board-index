@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "HabitAware nRF52",
+      "name": "habitaware",
 	  "websiteURL": "https://habitaware.com",     
       "maintainer": "HabitAware",
       "platforms": [        
         {
-          "name": "Maxwell",
+          "name": "HabitAware nRF52",
           "architecture": "nrf52",
           "version": "0.1",
           "category": "Contributed",
