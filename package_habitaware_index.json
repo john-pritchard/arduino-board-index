@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://github.com/john-pritchard/arduino-board-index/raw/main/boards/habitaware-nrf52-0.1.zip",
           "archiveFileName": "habitaware-nrf52-0.1.zip",
-          "checksum": "SHA-256:56ae5c119060e066f68f4bb4b437d9065586ab41df0c80abfc04844548f80fac",
-          "size": "17967690",
+          "checksum": "SHA-256:33bcce27ef55316222f6c8b03100e97250d8f6a21646450c6991337826401ea2",
+          "size": "18003719",
           "boards": [
             {
               "name": "Maxwell"
