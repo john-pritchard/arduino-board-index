@@ -9,10 +9,10 @@
           "name": "HabitAware nRF52",
           "architecture": "nrf52",
           "version": "0.1",
-          "category": "HabitAware",
+          "category": "Contributed",
           "url": "https://github.com/john-pritchard/arduino-board-index/raw/main/boards/habitaware-nrf52-0.1.zip",
           "archiveFileName": "habitaware-nrf52-0.1.zip",
-          "checksum": "SHA-256:0152741eaeec7af0e480965d79e9ec62291681671bbc502b7d57cf789843471e",
+          "checksum": "SHA-256:56ae5c119060e066f68f4bb4b437d9065586ab41df0c80abfc04844548f80fac",
           "size": "17967690",
           "boards": [
             {
